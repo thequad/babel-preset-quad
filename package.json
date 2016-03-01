@@ -2,6 +2,11 @@
   "name": "babel-preset-quad",
   "version": "1.0.1",
   "description": "Babel preset for Quad apps.",
+  "author": {
+    "name": "Mark Miyashita",
+    "email": "negativetwelve@gmail.com",
+    "url": "http://markmiyashita.com"
+  },
   "main": "index.js",
   "repository": "https://github.com/thequad/babel-preset-quad",
   "keywords": [
