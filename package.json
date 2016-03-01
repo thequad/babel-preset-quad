@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-quad",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Babel preset for Quad apps.",
   "main": "index.js",
   "repository": "https://github.com/thequad/babel-preset-quad",
@@ -10,7 +10,7 @@
     "react",
     "react-native"
   ],
-  "license" : "BSD-3-Clause",
+  "license" : "https://github.com/thequad/babel-preset-quad/blob/master/LICENSE.md",
   "bugs": {
     "url": "https://github.com/thequad/babel-preset-quad/issues"
   },
