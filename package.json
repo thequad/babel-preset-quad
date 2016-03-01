@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-quad",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Babel preset for Quad apps.",
   "author": {
     "name": "Mark Miyashita",
